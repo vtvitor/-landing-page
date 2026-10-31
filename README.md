@@ -45,7 +45,7 @@ Acesse **http://localhost:8000** no navegador.
     └── ...                     # Fotos da equipe
 ```
 
-O diagrama anterior funciona como fallback caso o navegador não consiga carregar a imagem AVIF.
+Imagem otimizada em AVIF com resolução adequada ao componente responsivo.
 
 ## Links
 

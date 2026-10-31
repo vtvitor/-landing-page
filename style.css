@@ -29,3 +29,10 @@
 .tech-art.has-prototype-image .reader-render,.tech-art.has-prototype-image .tech-chain{display:none}
 .tech-art.has-prototype-image>small{margin:8px 0 2px}
 @media(max-width:680px){.tech-art.has-prototype-image{padding:13px}.tech-art.has-prototype-image .prototype-img{margin:12px 0 4px}}
+
+/* Imagem de hardware 2026: destaque integral sem ilustração antiga nem recortes. */
+.tech-art.has-prototype-image{display:flex;flex-direction:column;align-items:stretch;min-height:0;overflow:hidden}
+.tech-art.has-prototype-image .prototype-img{display:block;width:100%;height:auto;max-height:none;object-fit:contain;object-position:center;border-radius:16px}
+.tech-art.has-prototype-image>.tech-art-heading{width:100%}
+.tech-art.has-prototype-image>small{margin-top:8px}
+@media(max-width:680px){.tech-art.has-prototype-image .prototype-img{border-radius:12px}}
