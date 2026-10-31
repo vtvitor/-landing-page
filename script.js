@@ -33,6 +33,14 @@
     window.matchMedia("(min-width: 681px)").addEventListener("change", closeMenu);
   }
 
+  const prototypeImage = document.querySelector(".prototype-img");
+  if (prototypeImage) {
+    const art = prototypeImage.closest(".tech-art");
+    const showImage = () => art?.classList.add("has-prototype-image");
+    prototypeImage.addEventListener("load", showImage);
+    if (prototypeImage.complete && prototypeImage.naturalWidth > 0) showImage();
+  }
+
   const faqs = document.querySelectorAll(".faq-list details");
   faqs.forEach((item) => item.addEventListener("toggle", () => {
     if (item.open) faqs.forEach((other) => { if (other !== item) other.open = false; });
