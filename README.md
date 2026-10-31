@@ -11,7 +11,7 @@ A página apresenta o conceito do BusPass, os recursos planejados e demonstrados
 - **Arte do protótipo:** imagem otimizada em AVIF da composição visual do hardware, com texto alternativo para acessibilidade.
 - **Transparência:** recursos sujeitos a testes não são apresentados como sistema oficial, homologado ou integração bancária confirmada.
 
-## Mobilidade em números — fontes de 2025 e 2026
+## Mobilidade em números — IBGE 2025 e NTU 2024
 
 Os números da seção **O cenário** descrevem a mobilidade brasileira e **não representam métricas de desempenho, impacto ou usuários do BusPass**.
 
@@ -19,9 +19,9 @@ Os números da seção **O cenário** descrevem a mobilidade brasileira e **não
 | --- | --- | --- |
 | **14,9 milhões** | Pessoas que utilizavam o ônibus como principal meio de transporte ao trabalho, no Censo 2022 divulgado em 2025. | [IBGE Educa, 2025](https://educa.ibge.gov.br/jovens/materias-especiais/23064-censo-2022-como-a-populacao-se-desloca-para-estudar-e-trabalhar.html) |
 | **70%** | Usuários de ônibus como meio principal para ir ao trabalho levavam ao menos 30 minutos no trajeto. | [Agência Brasil / IBGE, 09/10/2025](https://agenciabrasil.ebc.com.br/geral/noticia/2025-10/carro-e-o-principal-meio-de-transporte-para-o-trabalho-diz-censo) |
-| **3,7% de queda** | Variação no número de viagens de ônibus em 2025, ante 2024, segundo o Anuário NTU 2025–2026. | [NTU, 11/08/2026](https://ntu.org.br/central-de-noticias/149/ntu-propoe-o-programa-transporte-para-todos-para-melhorar-a-qualidade-do-onibus-urbano) |
+| **35,4 milhões por dia** | Viagens realizadas por passageiros por dia no Brasil em 2024, de acordo com os grandes números do setor de ônibus da NTU. | [NTU, Grandes Números — dados de 2024](https://www.ntu.org.br/novo/ckfinder/userfiles/files/NTU-Grandes%20n%C3%BAmeros%20do%20setor%20v13_5.pdf) |
 
-**Nota metodológica:** o primeiro indicador vem do Censo 2022, mas foi divulgado pelo IBGE em 2025. O indicador da NTU analisa a variação da demanda em 2025 e foi publicado em 2026. Eles não demonstram redução de atrasos, tarifas ou tempo de viagem causada pelo BusPass.
+**Nota metodológica:** o primeiro indicador vem do Censo 2022, mas foi divulgado pelo IBGE em 2025. O dado da NTU apresenta o volume diário de viagens em 2024 e contabiliza viagens, não indivíduos únicos. Eles não demonstram redução de atrasos, tarifas ou tempo de viagem causada pelo BusPass.
 
 ## Executar localmente
 
